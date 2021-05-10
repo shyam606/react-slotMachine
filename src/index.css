@@ -44,3 +44,14 @@
     color:red;
     border:2px solid black;
 }
+
+@media(max-width:438px){
+    .slotMachine{
+        width:75%;
+    }
+
+    .btn{
+        width: 30%;
+    }
+
+}
